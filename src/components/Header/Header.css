@@ -1,0 +1,15 @@
+.input-f{
+    position: relative;
+    border: 1px solid darkgray;
+}
+
+.input-f:focus{
+    border: 1px solid #27FE41;
+}
+
+.icon-f{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    color: darkgray
+}

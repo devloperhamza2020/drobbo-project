@@ -1,0 +1,24 @@
+/* button span{
+    color: #fff;
+} */
+
+.parent .category{
+    width: 260px;
+    border-radius: 5px;
+}
+
+.parent .user{
+    width: 870px;
+    text-align: right;
+}
+
+.navmenu{
+    background: #FDFC47;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, darkgreen, #FDFC47);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, rgb(7, 202, 7), #FDFC47); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.dropdown-item:hover{
+    background-color: #000;
+    color: #fff;
+}
